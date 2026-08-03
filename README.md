@@ -1,14 +1,15 @@
 # 📝 Flask To-Do App
 
-A simple task management web application built using **Flask** and **SQLite**. Users can add, update, complete, and delete daily tasks through a clean interface.
+A simple and user-friendly **To-Do List web application** built using **Flask** and **SQLite**. It helps users organize and manage their daily tasks efficiently.
 
 ## 🚀 Features
 
-* Add new tasks
-* Update tasks
-* Mark tasks as completed
-* Delete tasks
-* Store data using SQLite
+* ➕ Add new tasks
+* ✏️ Update existing tasks
+* ✅ Mark tasks as completed
+* 🗑️ Delete tasks
+* 📋 View and manage all tasks
+* 💾 Store task data using SQLite
 
 ## 🛠️ Technologies Used
 
@@ -17,20 +18,50 @@ A simple task management web application built using **Flask** and **SQLite**. U
 * SQLite
 * HTML
 * CSS
+* Jinja2
 
-## ▶️ Run the Project
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/flask-todo-app.git
+```
+
+2. Open the project folder:
+
+```bash
+cd flask-todo-app
+```
+
+3. Install Flask:
 
 ```bash
 pip install flask
+```
+
+4. Run the application:
+
+```bash
 python app.py
 ```
 
-Open:
+5. Open your browser and visit:
 
 ```text
 http://127.0.0.1:5000/
 ```
 
+## 📌 Future Improvements
+
+* User authentication
+* Task priorities
+* Due dates
+* Search and filter options
+* Dark mode
+
 ## 👨‍💻 Author
 
 **Vashu Rajak**
+
+GitHub: [vashurajak18-01](https://github.com/vashurajak18-01)
