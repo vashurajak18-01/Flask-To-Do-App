@@ -11,7 +11,7 @@ A simple and user-friendly **To-Do List web application** built using **Flask** 
 * 📋 View and manage all tasks
 * 💾 Store task data using SQLite
 
-## 🛠️ Technologies Used
+## 🛠️ _Technologies Used_
 
 * Python
 * Flask
