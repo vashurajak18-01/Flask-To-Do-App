@@ -64,4 +64,4 @@ http://127.0.0.1:5000/
 
 _None other than_ **Vashu Rajak**
 
-GitHub: [vashurajak18-01](https://github.com/vashurajak18-01)
+GitHub: _[vashurajak18-01](https://github.com/vashurajak18-01)_
