@@ -60,8 +60,8 @@ http://127.0.0.1:5000/
 * Search and filter options
 * Dark mode
 
-## 👨‍💻 Author
+## 👨‍💻 _Author_
 
-**Vashu Rajak**
+_None other than_ **Vashu Rajak**
 
 GitHub: [vashurajak18-01](https://github.com/vashurajak18-01)
