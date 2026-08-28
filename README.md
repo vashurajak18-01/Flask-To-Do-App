@@ -5,7 +5,7 @@ A simple and user-friendly **To-Do List web application** built using **Flask** 
 ## 🚀 _Features_
 
 * ➕ _Add new tasks_
-* ✏️ Update existing tasks
+* ✏️ _Update existing tasks_
 * ✅ Mark tasks as completed
 * 🗑️ Delete tasks
 * 📋 View and manage all tasks
