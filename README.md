@@ -20,7 +20,7 @@ _A simple and user-friendly **To-Do List web application** built using **Flask**
 * **CSS**
 * **Jinja2**
 
-## ⚙️ _Installation_
+## ⚙️ __Installation__
 
 1. Clone the repository:
 
