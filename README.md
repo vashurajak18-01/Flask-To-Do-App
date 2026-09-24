@@ -8,7 +8,7 @@ _A simple and user-friendly **To-Do List web application** built using **Flask**
 * ✏️ **_Update existing tasks_**
 * ✅ **_Mark tasks as completed_**
 * 🗑️ **_Delete tasks_**
-* 📋 **_View and manage all tasks_**
+* 📋 **__View and manage all tasks__**
 * 💾 **__Store task data using SQLite__**
 
 ## 🛠️ **__Technologies Used__**
