@@ -1,4 +1,4 @@
-# 📝 **_Flask ***__To-Do__*** Application_**
+# 📝 **__Flask ***__To-Do__*** Application__**
 
 _A simple and user-friendly **To-Do List web application** built using **Flask** and **SQLite**. It helps users organize and manage their daily tasks efficiently._
 
