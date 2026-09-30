@@ -52,7 +52,7 @@ python app.py
 http://127.0.0.1:5000/
 ```
 
-## 📌 *_Future Improvements_*
+## 📌 *__Future Improvements__*
 
 * User authentication
 * Task priorities
