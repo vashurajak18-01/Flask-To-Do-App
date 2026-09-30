@@ -14,7 +14,7 @@ _A simple and user-friendly **To-Do List web application** built using **Flask**
 ## 🛠️ **__Technologies Used__**
 
 * **__Python__**
-* **_Flask_**
+* **__Flask__**
 * **_SQLite_**
 * **_HTML_**
 * **_CSS_**
