@@ -22,7 +22,7 @@
 
 ## ⚙️ **__Installation__**
 
-1. _Clone the repository:
+1. _Clone the repository:_
 
 ```bash
 git clone https://github.com/your-username/flask-todo-app.git
