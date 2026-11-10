@@ -11,7 +11,7 @@
 * 📋 **__View and manage all tasks__**
 * 💾 **__Store task data using SQLite__**
 
-## 🛠️ **__Technologies Used__*
+## 🛠️ **__Technologies Used__**
 
 * **__Python__**
 * **__Flask__**
